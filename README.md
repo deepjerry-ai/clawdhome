@@ -160,7 +160,7 @@ make log-helper
 
 Here are some interesting real-world uses of ClawdHome + OpenClaw. PRs to add your case are welcome!
 
-- **tensorslab-xhs** - TensorsLab + Xiaohongshu Marketing Automation Workflow: automatic hot topic crawling, auto-generate Xiaohongshu copy + 1:1 square cute-style images, auto-archive to Feishu Bitable, support daily scheduled automatic content production. by [@miyakooy](https://github.com/miyakooy)
+- **tensorslab-xhs** - TensorsLab + Xiaohongshu Marketing Automation: best-value automatic marketing tool, automatic hot topic crawling, auto-generate Xiaohongshu copy + 1:1 square cute-style images, auto-archive to Feishu Bitable, support daily scheduled automatic content production. by [@miyakooy](https://github.com/miyakooy)
 
 ## Contributing
 
