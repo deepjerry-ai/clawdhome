@@ -187,6 +187,12 @@ make i18n-check
 - [ ] Improved gateway probing and historical health tracking.
 - [ ] Production-grade signed/notarized distribution pipeline.
 
+## Who is Using ClawdHome & OpenClaw
+
+Here are some interesting real-world uses of ClawdHome + OpenClaw. PRs to add your case are welcome!
+
+- **tensorslab-xhs** - TensorsLab + Xiaohongshu Marketing Automation: best-value automatic marketing tool with TensorsLab seconds-fast AI image generation, automatic hot topic crawling, auto-generate Xiaohongshu copy + 1:1 square cute-style images, auto-archive to Feishu Bitable, support daily scheduled automatic content production, saves tons of human time. by [@miyakooy](https://github.com/miyakooy)
+
 ## Contributing
 
 - Open an issue first for major changes.
