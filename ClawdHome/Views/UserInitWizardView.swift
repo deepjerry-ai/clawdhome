@@ -2200,7 +2200,7 @@ struct UserInitWizardView: View {
             (.setNpmRegistry, L10n.k("views.user_init_wizard_view.settings_npm", fallback: "设置 npm 安装源"), {
                 try await conn.setNpmRegistry(username: user.username, registry: selectedNpmRegistry.rawValue)
             }),
-            (.installOpenclaw, L10n.k("views.user_init_wizard_view.openclaw_openclawversionlabelforui", fallback: "安装 openclaw (\(openclawVersionLabelForUI))"), {
+            (.installOpenclaw, L10n.f("views.user_init_wizard_view.openclaw_openclawversionlabelforui", fallback: "安装 openclaw (%@)", openclawVersionLabelForUI), {
                 try await conn.installOpenclaw(
                     username: user.username,
                     version: selectedOpenclawVersionForInstall

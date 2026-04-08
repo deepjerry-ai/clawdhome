@@ -17137,13 +17137,13 @@
         "en": {
           "stringUnit": {
             "state": "translated",
-            "value": "Install openclaw (\\(openclawVersionLabelForUI))"
+            "value": "Install openclaw (%@)"
           }
         },
         "zh-Hans": {
           "stringUnit": {
             "state": "translated",
-            "value": "安装 openclaw (\\(openclawVersionLabelForUI))"
+            "value": "安装 openclaw (%@)"
           }
         }
       }
